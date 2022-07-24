@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotifyMe</string>
+    <string name="notification_title">Notification Title</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="notification_description">Notification Description</string>
+    <string name="notification_interval_time">notification interval Time</string>
+</resources>
